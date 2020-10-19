@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  font-size: 16px;
+}
+
+ul {
+  margin: 0;
+}
+
+ul li {
+  margin-bottom: 1rem;
+}
+
+span {
+  margin-top: 20px;
+  font-weight: bold;
+}
